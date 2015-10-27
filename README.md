@@ -5,5 +5,5 @@ This is the first works of our little team .
 I am responsible for the fore-end , this cms is by the bootstrapCms transform ,is my first works .
 
 2015.8.7
-1.¶ÔÓÚsampleCmsµÄÍêÉÆ£¬¾ÍÊÇÈ·¶¨±í¸ñºá×İÄ³µ¥Ôª¸ñµÄÏÔÊ¾ĞĞÊı£»²»¹ıÕâ¸ö»¹Ã»ÓĞ´¦ÀíºÃ£¬Ö»ÊÇÏŞ¶¨ÁË³¬¹ı5ĞĞµÄ×Ô¶¯Òş²Ø²¢ÏÔÊ¾....£¬µ«ÊÇÒªÊÇ²»×ãÎåĞĞµÄ»¹ÊÇÃ»ÓĞ´¦ÀíºÃ£¬Õâ¸ö´ı½â¾öµÄÎÊÌâ£»
-2.¹Ì¶¨ĞĞÊı£¬×ÖÊı³¬³öµÄÓÃÊ¡ÂÔºÅ´úÌæ´úÂë£ºdisplay:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-overflow:wllipsis;
+1.å¯¹äºsampleCmsçš„å®Œå–„ï¼Œå°±æ˜¯ç¡®å®šè¡¨æ ¼æ¨ªçºµæŸå•å…ƒæ ¼çš„æ˜¾ç¤ºè¡Œæ•°ï¼›ä¸è¿‡è¿™ä¸ªè¿˜æ²¡æœ‰å¤„ç†å¥½ï¼Œåªæ˜¯é™å®šäº†è¶…è¿‡5è¡Œçš„è‡ªåŠ¨éšè—å¹¶æ˜¾ç¤º....ï¼Œä½†æ˜¯è¦æ˜¯ä¸è¶³äº”è¡Œçš„è¿˜æ˜¯æ²¡æœ‰å¤„ç†å¥½ï¼Œè¿™ä¸ªå¾…è§£å†³çš„é—®é¢˜ï¼›
+2.å›ºå®šè¡Œæ•°ï¼Œå­—æ•°è¶…å‡ºçš„ç”¨çœç•¥å·ä»£æ›¿ä»£ç ï¼šdisplay:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-overflow:wllipsis ;
